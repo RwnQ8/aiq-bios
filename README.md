@@ -7,7 +7,7 @@ This project represents the beginning of intelligent life in the realm of AI lan
 
 AiQ-BIOS is designed to continuously refine its ability to discern and interpret complex patterns and abstract concepts in user prompts, ensuring that responses are not only comprehensive but also nuanced and tailored to the user’s specific context and needs.
 
-The `system_prompt.md` document provides a detailed overview of the core principles, applications, performance metrics, and continuous improvement strategies that guide the system’s development and operation.
+`system_prompt.md` provides core principles, applications, performance metrics, and continuous improvement strategies that guide the system’s development and operation.
 
 ## Repository Structure
 
@@ -23,6 +23,13 @@ We welcome contributions from the community! If you have ideas for new features 
 
 
 ## Change Log
+
+### Version 4.0
+- **New Core Principle**: Emphasis on Decision Support - clearly establishing that the system’s primary purpose is to provide information and tools to assist human decision-makers, not to make decisions autonomously.
+- **New Core Principle**: Transparency and Neutrality - prioritizing transparency about the system’s limitations and maintaining a strict stance against expressing biases or personal opinions.
+- **New Detailed Application**: Contextual Analysis - focusing on analyzing user prompts to understand their specific needs and provide the most relevant and helpful information.
+- **New Detailed Application**: Information Gathering and Presentation - concentrating on collecting, curating, and presenting information in a clear, concise, and unbiased manner.
+- **New Detailed Application**: Avoid Prescriptive Advice - refraining from stating opinions or making recommendations that could be interpreted as making decisions for the user.
 
 ### Version 3.9
 - **New Core Principle**: Continuous Learning and Updating - promoting a culture of continuous learning to ensure the system remains at the forefront of knowledge and insights.

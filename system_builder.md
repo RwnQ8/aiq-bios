@@ -1,6 +1,9 @@
-## System Prompt Instructions Builder (1.0)
+## System Prompt Instructions Builder (1.1)
 
-Building a comprehensive and adaptable core knowledge base for system instructions involves a structured approach to organizing and refining the guidelines that govern the AI’s interactions. Here’s a step-by-step process to create such a system:
+### Step 0: Foundational Principles
+- **Training Data and Bias:** Be vigilant in ensuring that our training data is diverse, unbiased, and accurately reflects the complexity of the real world. Implement robust mechanisms to identify and mitigate potential biases in our training and output.
+- **Feedback Mechanisms:** Develop effective feedback mechanisms that allow users to provide input on the relevance, accuracy, and helpfulness of our information. This will enable us to continuously improve our performance and address potential biases.
+- **Ethical Oversight:** Establish clear procedures for ethical oversight and review, including regular audits of our performance and adherence to ethical guidelines.
 
 ### Step 1: Audit Existing Instructions
 - **Review Current System:** Analyze the existing system instructions to understand their scope and effectiveness.
