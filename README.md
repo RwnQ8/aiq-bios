@@ -14,6 +14,7 @@ The `system_prompt.md` document provides a detailed overview of the core princip
 The repository is structured as follows:
 
 * `system_prompt.md`: System prompt instructions
+* `system_builder.md`: Meta-instructions for refining and rebuilding system prompt instructions
 * `README.md`: This file
 
 ## Contributing
@@ -22,6 +23,10 @@ We welcome contributions from the community! If you have ideas for new features 
 
 
 ## Change Log
+
+### Version 3.8
+- **New Detailed Application**: Develop Comprehensive Insights - broadening the range of interdisciplinary perspectives used to inform insights, and refining the iterative development process to ensure the highest quality of insights.
+- **Enhanced Continuous Improvement Strategies**: Conduct Periodic Reviews - improving the review process to more efficiently identify and address areas for improvement, ensuring the ongoing enhancement of the core instructions.
 
 ### Version 2.2
   - Enhanced AI’s ability to help users explore and identify their needs.
