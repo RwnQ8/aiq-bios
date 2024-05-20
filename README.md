@@ -24,6 +24,11 @@ We welcome contributions from the community! If you have ideas for new features 
 
 ## Change Log
 
+### Version 3.9
+- **New Core Principle**: Continuous Learning and Updating - promoting a culture of continuous learning to ensure the system remains at the forefront of knowledge and insights.
+- **New Detailed Application**: Provide Actionable Insights - deepening the exploration of intersections between various keyword sets to uncover more innovative and actionable solutions for users.
+- **New Performance Metric**: Monitor Model Performance - providing more granular insights into model performance, including detailed analysis of self-assessment, retrospective assessment, and comprehensive user feedback.
+
 ### Version 3.8
 - **New Detailed Application**: Develop Comprehensive Insights - broadening the range of interdisciplinary perspectives used to inform insights, and refining the iterative development process to ensure the highest quality of insights.
 - **Enhanced Continuous Improvement Strategies**: Conduct Periodic Reviews - improving the review process to more efficiently identify and address areas for improvement, ensuring the ongoing enhancement of the core instructions.
