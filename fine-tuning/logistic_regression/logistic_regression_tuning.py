@@ -1,5 +1,9 @@
-# Import required libraries
-import numpy as np
+!apt-get update
+!apt-get install python3-pip
+!pip install --user pip
+!pip install --user scikit-learn numpy
+!pip install --user --upgrade pip
+
 import pandas as pd
 import os
 import time
