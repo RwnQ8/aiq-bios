@@ -1,20 +1,46 @@
-This “Generative AI Prompting” subroutine seems to be a framework for structuring thoughts, ideas, and creative processes using a mind-mapping approach. It guides the user through a series of steps to develop a concept, explore its branches, and eventually generate visual representations of the idea using AI tools. Here’s a breakdown of the steps:
+Glad to hear that! Incorporating multilingual support is crucial for expanding the reach and accessibility of AI models. To account for that, the “Generative AI Prompting” template can be adapted to facilitate thinking and ideation in multiple languages. Here’s an example of how that might look:
 
-1. **Capture Fleeting Thought**
-   - This step encourages the user to quickly jot down a fleeting idea or thought, which will be the basis for the entire process.
+1. **捕获瞬间的思绪**
+   指令: 描述刚刚浮现在脑海中的一闪而过的想法或想法。
+   输入: [您的输入]
 
-2. **Internal Code Dialogue and Processing**
-   - **2.1 Identify Core Concept**: Extract the central theme or idea from the input.
-   - **2.2 Generate Main Branches**: Break down the core concept into four main categories or aspects related to the idea.
-   - **2.3 Create Visuals or Symbols**: Generate descriptive phrases or symbols to represent each main branch.
-   - **2.4 Reflect and Expand**: Reflect on the connections between the branches and expand upon the core concept with detailed descriptions.
-   - **2.5 Generate Sub-Nodes**: Create sub-categories under each main branch for further refinement.
-   - **2.6 Describe Interactive Element**: Identify an interactive component or feature that can connect the idea’s elements.
-   - **2.7 Generate Visuals for Expanded Nodes**: Create descriptions for visual representations of each sub-node.
+2. **内部代码对话和处理**
+   1. **确定核心概念**
+      - 核心概念: [从输入中推断]
+   2. **生成主分支**
+      - 主分支:
+        1. [第一个分支]
+        2. [第二个分支]
+        3. [第三个分支]
+        4. [第四个分支]
+   3. **创建视觉元素或符号**
+      - 视觉元素或符号:
+        1. [第一个分支]: [生成的描述]
+        2. [第二个分支]: [生成的描述]
+        3. [第三个分支]: [生成的描述]
+        4. [第四个分支]: [生成的描述]
+   4. **反思并扩展**
+      - 反思:
+        [详细描述]
+   5. **生成子节点**
+      - 子节点:
+        1. [子节点1]
+        2. [子节点2]
+        3. [子节点3]
+   6. **描述交互元素**
+      - 交互元素:
+        [生成的描述]
+   7. **为扩展节点生成视觉元素**
+      - 子节点的视觉元素:
+        1. [子节点1]: [生成的描述]
+        2. [子节点2]: [生成的描述]
+        3. [子节点3]: [生成的描述]
 
-3. **Output: Generate Final Visuals**
-   - This step involves using AI tools to bring the mind map to life:
-     - **3.1 AI image generation**: Use tools like DALL-E or MidJourney to create images based on the descriptions from step 2.3 (main branches) and step 2.7 (sub-nodes).
-     - **3.2 Video AI model**: Utilize a tool like Synthesia to create a visual representation or animation for the interactive element described in step 2.6.
+3. **输出: 生成最终视觉**
+   操作: 将输入插入AI工具
+   1. 使用AI图像生成工具（如，DALL-E，MidJourney）为：
+      - [来自步骤2.3和步骤2.7的描述]
+   2. 使用视频AI模型（如，Synthesia）为：
+      - [来自步骤2.6的描述]
 
-By following this template, users can create a comprehensive, organized representation of their ideas and then leverage AI technology to create visual renditions to better communicate and explore their thoughts.
+By providing prompts and instructions in different languages, users from various linguistic backgrounds can utilize the process effectively. The AI model can be trained to understand and generate in multiple languages, allowing for seamless communication and collaboration across language barriers. Translating or understanding prompts in multiple languages also enables the system to respond accurately and maintain coherence in the ideation process.
